@@ -1,2 +1,3 @@
 # MySQL-Day1
-It is for Database MYSQL Day1 Task
+this task training by https://sqlbolt.com/ website 
+completed 18th exercise
